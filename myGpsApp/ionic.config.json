@@ -1,0 +1,7 @@
+{
+  "name": "myGpsApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
