@@ -64,4 +64,4 @@ GET http://localhost:8080/api/gps: Récupère toutes les coordonnées GPS.
 
 ## Démonstration
 
-
+https://github.com/user-attachments/assets/f6ece166-060b-4618-9648-de5ce0829d3a
