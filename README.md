@@ -61,3 +61,7 @@ ionic serve
 ```
 ## API Endpoints
 GET http://localhost:8080/api/gps: Récupère toutes les coordonnées GPS.
+
+## Démonstration
+
+
